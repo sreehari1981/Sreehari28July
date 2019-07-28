@@ -1,4 +1,4 @@
-# Programe to calculate area of a Triangle
+# Programe Area Triangle
 side1 = float(input('Enter the first side of a triangle: '))
 side2 = float(input('Enter the second side of a triangle: '))
 side3 = float(input('Enter the third side of a triangle: '))
