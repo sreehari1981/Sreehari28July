@@ -1,0 +1,7 @@
+#This program adds two numbers
+num1 = 28.9
+num2 = 45.67
+sum = num1+num2
+print('The sum of two numbers are: ',sum)
+
+
